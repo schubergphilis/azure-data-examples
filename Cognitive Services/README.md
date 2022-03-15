@@ -1,0 +1,2 @@
+# Azure Face API
+Create the resource and make sure the end-point (AZURE_FACE_API_ENDPOINT) and key (AZURE_FACE_API_KEY) are stored as environment variables. After you have installed the required packages, you can run the example via: streamlit run Demo_Face_API.py
